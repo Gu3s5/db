@@ -1,7 +1,7 @@
 create database asteriskcdrdb;
 
-/* Define a senha do usuário como 123456 */
-CREATE USER 'asteriskcdr'@'localhost' IDENTIFIED BY '123456';
+/* Define a senha do usuário como kz14wdsy */
+CREATE USER 'asteriskcdr'@'localhost' IDENTIFIED BY 'kz14wdsy';
 GRANT ALL PRIVILEGES ON asteriskcdrdb.* TO 'asteriskcdr'@'%';
  
 use asteriskcdrdb;
